@@ -2,3 +2,4 @@ data bulunucak
 eğitilecek
 uygun çıktı sağlanacak
 proje formatına karar verilecek
+planlama
