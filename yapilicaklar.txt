@@ -1,1 +1,2 @@
 baret örnekleri için data arandı
+uygun kütüphaneler arandı
