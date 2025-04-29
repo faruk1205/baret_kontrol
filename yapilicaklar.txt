@@ -5,3 +5,4 @@ otomata dersine odaklanıldı
 gün gün yapılıcaklar belirlendi
 çok fazla hata alındı yapılan her şeyden vazgeçildi
 planlar gözden geçirildi
+yazılım mühendisliği tasarımlar çalışıldı
