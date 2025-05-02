@@ -9,3 +9,4 @@ yazılım mühendisliği tasarımlar çalışıldı
 pm vaka analizi yapıldı
 kask kontrol projesi hazırlandı ve yüklendi
 bugün pumping lemma öğrenildi
+Product management örnek özellik ekleme vaka çalışması yapıldı
