@@ -5,7 +5,7 @@ import cv2
 model = YOLO("helmet.pt")
 
 # Videoyu aç
-cap = cv2.VideoCapture("helmet2.mp4")
+cap = cv2.VideoCapture("punch.mp4")
 
 while cap.isOpened():
     success, frame = cap.read()
@@ -18,7 +18,7 @@ while cap.isOpened():
     # Sonuçları göster
     annotated_frame = results[0].plot()
     
-    resized_frame = cv2.resize(annotated_frame, (0, 0), fx=0.5, fy=0.5)
+    resized_frame = cv2.resize(annotated_frame, (0, 0), fx=0.2, fy=0.2)
     
     cv2.imshow("Helmet Detection", resized_frame)
 
